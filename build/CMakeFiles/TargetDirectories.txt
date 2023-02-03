@@ -1,4 +1,0 @@
-C:/Users/Konstantin/Desktop/guitest_sdl2/build/CMakeFiles/guitest_sdl_imgui.dir
-C:/Users/Konstantin/Desktop/guitest_sdl2/build/CMakeFiles/guitest_sdl.dir
-C:/Users/Konstantin/Desktop/guitest_sdl2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Konstantin/Desktop/guitest_sdl2/build/CMakeFiles/ZERO_CHECK.dir
