@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/67f6623a677c669d7df7dd978e15f0a0/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/e09f8dfc01cae53091c741d639fd197a/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Konstantin/Desktop/guitest_sdl2/build/_deps/imgui-subbuild/CMakeFiles/05ec021ca257550e1f8ae937b10a91e7/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}
