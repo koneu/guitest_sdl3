@@ -1,4 +1,4 @@
-build/
+build*/
 conan.lock
 conanbuildinfo.cmake
 conanbuildinfo.txt
