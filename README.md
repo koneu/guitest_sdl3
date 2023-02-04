@@ -1,4 +1,7 @@
 # guitest_sdl3
+
+deploys a c++ gui to github pages.
+
 testing how complicated it would be to put a gui application as the github-pages site.
 
 
