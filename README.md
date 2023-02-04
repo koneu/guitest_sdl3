@@ -6,7 +6,7 @@ testing how complicated it would be to put a gui application as the github-pages
 
 
 ## result
-https://koneu.github.io/guitest_sdl2/guitest_sdl.html
+https://koneu.github.io/guitest_sdl3/guitest_sdl.html
 
 ## usage:
 
