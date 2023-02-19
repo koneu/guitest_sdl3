@@ -12,6 +12,10 @@ https://koneu.github.io/guitest_sdl3/guitest_sdl.html
 
 install emscripten as described on their page https://emscripten.org/docs/getting_started/downloads.html
 
+download https://github.com/emscripten-core/emscripten
+
+install java, llvm and node_js and edit the .emscripten file according to your installation
+
 create a build folder
 
 navigate to the build folder
