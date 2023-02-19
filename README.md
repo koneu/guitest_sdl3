@@ -14,7 +14,7 @@ install emscripten as described on their page https://emscripten.org/docs/gettin
 
 download https://github.com/emscripten-core/emscripten
 
-install java, llvm and node_js and edit the .emscripten file according to your installation
+install java, llvm and node_js and edit the .emscripten file from emscripten-core/emscripten according to your installation
 
 create a build folder
 
